@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "980ed0ab9a9a6de3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd1a242ef0046f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "178d6d7c0ac10bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zist"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fbe4a6d7081f1192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd18b3b3fb074f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Аксиомы языка/Основная задача языка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основная задача языка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0121ef109d470f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bac9f1811449add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a74bfba67961413",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "8a4361076b3f4b4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "670588e15ad5d6c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "285ac74d751c9b63",
+    "type": "split",
+    "children": [
+      {
+        "id": "576b45497380dc31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cab7eb9b0f72985",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Аксиомы языка/Основная задача языка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Основная задача языка"
+            }
+          },
+          {
+            "id": "41281d41d7e81c63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Аксиомы языка/Основная задача языка.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Основная задача языка"
+            }
+          },
+          {
+            "id": "e45a416bcec61bf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "30447b4f74892088",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "ac1f28784d96390c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Аксиомы языка/Основная задача языка.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Основная задача языка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "9bd18b3b3fb074f3",
+  "lastOpenFiles": [
+    "Zist.md",
+    "Аксиомы языка/Основная задача языка.md",
+    "Аксиомы языка/C и Rust подобие.md",
+    "Примеры кода/'Hello, World!' код.md",
+    "Без названия.base",
+    "Примеры кода/Язык в примерах.md",
+    "Примеры кода/ООП.md",
+    "Примеры кода",
+    "Аксиомы языка",
+    "Добро пожаловать.md"
+  ]
+}
