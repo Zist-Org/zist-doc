@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd1a242ef0046f6",
+        "id": "9e22fa03b675c147",
         "type": "tabs",
         "children": [
           {
-            "id": "178d6d7c0ac10bfb",
+            "id": "5f526f201ac42f43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zist"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fbe4a6d7081f1192",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9bd18b3b3fb074f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Аксиомы языка/Основная задача языка.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основная задача языка"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -194,6 +170,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Публикация изменений": false,
+      "digitalgarden:Digital Garden Publication Center": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -203,14 +181,18 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "9bd18b3b3fb074f3",
+  "active": "5f526f201ac42f43",
   "lastOpenFiles": [
-    "Zist.md",
-    "Аксиомы языка/Основная задача языка.md",
-    "Аксиомы языка/C и Rust подобие.md",
-    "Примеры кода/'Hello, World!' код.md",
+    "index.md",
     "Без названия.base",
     "Примеры кода/Язык в примерах.md",
+    "Аксиомы языка/Основная задача языка.md",
+    "Аксиомы языка/C и Rust подобие.md",
+    "Аксиомы языка/Cи Rust подобие.md",
+    "Аксиомы-языка/C-и-Rust-подобие.md",
+    "Аксиомы-языка",
+    "Zist.md",
+    "Примеры кода/'Hello, World!' код.md",
     "Примеры кода/ООП.md",
     "Примеры кода",
     "Аксиомы языка",
